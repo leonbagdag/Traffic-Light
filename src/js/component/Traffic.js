@@ -29,7 +29,7 @@ export class TrafficLight extends React.Component {
 
 		return (
 			<div>
-				<div id="TrafficTop" />
+				<div id="Traffic" />
 				<div id="container">
 					<div
 						className={"red light " + red}
